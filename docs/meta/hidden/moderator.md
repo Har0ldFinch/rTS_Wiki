@@ -11,7 +11,7 @@ redirect_from: /docs/meta/hidden/coc.html
 ---
 
 # Moderator Guidelines
-This page will give you a run down guidance on what is expect of you when you join the discord server as a **Helper** or **Moderator**.
+This page will give you a run down guidance on what is expect of you when you join the discord server as a **Moderator**.
 
 First and formally, you will adhere to and respect other members of this group. You will adhere and enforce the rules of the Subreddit /r/TechSupport and Discord server.
 
